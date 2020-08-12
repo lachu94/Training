@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectUniqueName": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "packagesPath": "C:\\Users\\lachu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\obj\\",
+      "outputPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -226,8 +226,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj": {
-              "projectPath": "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj"
+            "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj": {
+              "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj"
             }
           }
         }

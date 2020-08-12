@@ -3,6 +3,31 @@
 @{  
 }
 
-<h1>List</h1>
+<h1>Resaturants</h1>
 
-@Model.Message
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" 
+                   value="" name="searchTerm"/>
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="glyphicon glyphicon-search"> </i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    
+    @foreach(var restaruant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaruant.Name</td>
+            <td>@restaruant.Location</td>
+            <td>@restaruant.Cuisine</td>
+        </tr>
+    }
+</table>
+<div> @Model.Message</div>

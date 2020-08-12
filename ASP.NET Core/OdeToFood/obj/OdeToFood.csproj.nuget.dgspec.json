@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lachu\\source\\repos\\OdeToFood\\OdeToFood.csproj": {}
+    "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "packagesPath": "C:\\Users\\lachu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\obj\\",
+        "outputPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj": {
-                "projectPath": "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj"
+              "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\lachu\\source\\repos\\OdeToFood\\OdeToFood.csproj": {
+    "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lachu\\source\\repos\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\lachu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood\\obj\\",
+        "outputPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -94,8 +94,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-                "projectPath": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj": {
+    "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj",
+        "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\lachu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lachu\\source\\repos\\Restaurant\\obj\\",
+        "outputPath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

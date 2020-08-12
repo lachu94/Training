@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj",
+      "projectUniqueName": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj",
       "projectName": "OdeToFood.Core",
-      "projectPath": "C:\\Users\\lachu\\source\\repos\\Restaurant\\OdeToFood.Core.csproj",
+      "projectPath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj",
       "packagesPath": "C:\\Users\\lachu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lachu\\source\\repos\\Restaurant\\obj\\",
+      "outputPath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

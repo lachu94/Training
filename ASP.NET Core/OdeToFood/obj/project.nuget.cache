@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TCuK/bXtqIncuxVCXVPXzMa0RZ2H40i+rvrns+JgTQiyLdP3rKJ0TxYOP/G7ZFfiKVZe8lk+LfeEe3NIyORrwQ==",
+  "dgSpecHash": "0zOvwXK2g4AZo0SfVs0RuJO47nl52GpburaAG91t9lTTeOFsU933YlnvpYVZenI3gqp38yzLvtSVBgpBAvvpQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lachu\\source\\repos\\OdeToFood\\OdeToFood.csproj",
+  "projectFilePath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lachu\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

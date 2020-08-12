@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCOp4EvLL164l2YeQ6zag9ojBncwb/TVOc8NT8oxfnsib+pJ/yvHFpotbGwuYk2QwyGQJYHZ6ELn2/WxiyydCQ==",
+  "dgSpecHash": "Z6Qd+1Eie2KPhAlZovBcOhTmNySCj4XzsQjtRe6iWZ9X6gDDguLBJ+LRVJd8oOlUdu43BOmv1+XVxL4PWqNn4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lachu\\source\\repos\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "projectFilePath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lachu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
