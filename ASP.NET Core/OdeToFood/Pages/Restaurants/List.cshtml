@@ -23,17 +23,25 @@
     
     @foreach(var restaruant in Model.Restaurants)
     {
-        <tr>
-            <td>@restaruant.Name</td>
-            <td>@restaruant.Location</td>
-            <td>@restaruant.Cuisine</td>
-            <td>
-                <a class="btn btn-lg"
-                   asp-page="./Detail" asp-route-restaurantId="@restaruant.Id">
-                    <i class="glyphicon glyphicon-zoom-in"></i>
-                </a>
-            </td>
-        </tr>
+    <tr>
+        <td>@restaruant.Name</td>
+        <td>@restaruant.Location</td>
+        <td>@restaruant.Cuisine</td>
+        <td>
+            <a class="btn btn-lg"
+               asp-page="./Detail" asp-route-restaurantId="@restaruant.Id">
+                <i class="glyphicon glyphicon-zoom-in"></i>
+            </a>
+        </td>
+        <td>
+            <a class="btn btn-lg"
+               asp-page="./Edit" asp-route-restaurantId="@restaruant.Id">
+                <i class="glyphicon glyphicon-edit"></i>
+            </a>
+        </td>
+    </tr>
     }
 </table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Add New</a>
 <div> @Model.Message</div>

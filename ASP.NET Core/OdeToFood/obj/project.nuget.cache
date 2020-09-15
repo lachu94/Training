@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MfiX457WgAaRROdaCoGNga6ioRrasRFv7S9FNPeU01hhmNL90X86bP0m6HZPRJyPf4o25q8NpvY4X1Z0h0tRNA==",
+  "dgSpecHash": "mvCtqS+E4c2/fqsS76Cdl/Ql19ybHWBWCXGqcHie2ft2wgZByT3f9PIkak/smC9DJkn1ud0iiv5ZFCUPYWEElg==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\Training\\ASP.NET Core\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
@@ -211,7 +211,7 @@
     "C:\\Users\\lachu\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
-    "C:\\Users\\lachu\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\lachu\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\system.composition\\1.0.31\\system.composition.1.0.31.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\system.composition.attributedmodel\\1.0.31\\system.composition.attributedmodel.1.0.31.nupkg.sha512",
     "C:\\Users\\lachu\\.nuget\\packages\\system.composition.convention\\1.0.31\\system.composition.convention.1.0.31.nupkg.sha512",
