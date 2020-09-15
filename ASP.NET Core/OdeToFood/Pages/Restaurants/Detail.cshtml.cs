@@ -9,11 +9,11 @@ using OdeToFood.Data;
 
 namespace OdeToFood.Pages.Restaurants
 {
-    public class DeteailModel : PageModel
+    public class DetailModel : PageModel
     {
         private readonly IRestaurantData restaurantData;
         public Restaurant Restaurant { get; set; }
-        public DeteailModel(IRestaurantData restaurantData)
+        public DetailModel(IRestaurantData restaurantData)
         {
             this.restaurantData = restaurantData;
         }

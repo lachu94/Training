@@ -76,5 +76,5 @@ C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.cspr
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
-C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Deteail.cshtml.g.cs
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
