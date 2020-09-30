@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OdeToFood.Data\OdeToFood.Data.csproj" />
+    <ProjectReference Include="..\Restaurant\OdeToFood.Core.csproj" />
   </ItemGroup>
 
 </Project>
