@@ -82,3 +82,8 @@ C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Re
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
 C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
+C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Create.cshtml.g.cs
+C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Delete.cshtml.g.cs
+C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Details.cshtml.g.cs
+C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Edit.cshtml.g.cs
+C:\GitHub\Training\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Index.cshtml.g.cs

@@ -124,7 +124,7 @@ using OdeToFood;
             WriteLiteral("\r\n</div>\r\n\r\n");
             EndContext();
             BeginContext(603, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "838af05d385a4300949fb99e7d18c390", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dc3aa5fb0433450a8f6e7ba6e2a2e257", async() => {
                 BeginContext(648, 15, true);
                 WriteLiteral("All restaurants");
                 EndContext();
