@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using OdeToFood.Data;
@@ -31,8 +32,12 @@ namespace OdeToFood
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+            services.AddDbContextPool<OdeToFoodDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("OdeToFoodDb"));
+            });
 
-            services.AddSingleton<IRestaurantData, InMemoryRestaruantData>();
+            services.AddScoped<IRestaurantData, SqlRestaurantData>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -48,12 +53,29 @@ namespace OdeToFood
                 app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
-
+            app.Use(SayHelloMiddleware);
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseNodeModules(env);
             app.UseCookiePolicy();
 
             app.UseMvc();
+       
+        }
+
+        private RequestDelegate SayHelloMiddleware(RequestDelegate next)
+        {
+            return async ctx =>
+            {
+                if (ctx.Request.Path.StartsWithSegments("/hello"))
+                {
+                    await ctx.Response.WriteAsync("Hellow, Word");
+                }
+                else
+                {
+                    await next(ctx);        
+                }
+            };
         }
     }
 }

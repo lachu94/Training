@@ -6,7 +6,7 @@ C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFoo
 C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
 C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
-C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
 C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\GitHub\Training\ASP.NET Core\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache

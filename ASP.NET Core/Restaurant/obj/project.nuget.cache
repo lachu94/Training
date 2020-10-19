@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "amrkIjbjhK8Tg6aYcqyEHvYxxx5KTPnkTItn8D+96EnQ0NWejU3MdF5rMOeDLIgRf4RuZ36kAKK4D/UsNQ/Xmg==",
+  "dgSpecHash": "WmSmw7OBPDg06vgKcvZtiu9tFuAnTaR0J11ULD0lBr6GkyWLvaJcPvrrucq1n00vrVttyvIZHl7IzUbqdcR9lQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\Training\\ASP.NET Core\\Restaurant\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lachu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\lachu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\lachu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lachu\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

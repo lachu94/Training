@@ -1,14 +1,18 @@
 ﻿@page
 @model OdeToFood.Pages.Restaurants.ListModel
-@{  
+@{
+    ViewData["Title"] = "Restaurants";
 }
-
+@if (Model.Message != null)
+{
+    <div class="alert alert-info">@Model.Message</div>
+}
 <h1>Resaturants</h1>
 
 <form method="get">
     <div class="form-group">
         <div class="input-group">
-            <input type="search" class="form-control" 
+            <input type="search" class="form-control"
                    asp-for="SearchTerm" />
             <span class="input-group-btn">
                 <button class="btn btn-default">
@@ -19,15 +23,39 @@
     </div>
 </form>
 
-<table class="table">
-    
-    @foreach(var restaruant in Model.Restaurants)
+@foreach (var restaurnat in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurnat"/>
+}
+
+@*<table class="table">
+
+    @foreach (var restaruant in Model.Restaurants)
     {
         <tr>
             <td>@restaruant.Name</td>
             <td>@restaruant.Location</td>
             <td>@restaruant.Cuisine</td>
+            <td>
+                <a class="btn btn-lg"
+                   asp-page="./Detail" asp-route-restaurantId="@restaruant.Id">
+                    <i class="glyphicon glyphicon-zoom-in"></i>
+                </a>
+                <a class="btn btn-lg"
+                   asp-page="./Edit" asp-route-restaurantId="@restaruant.Id">
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+                <a class="btn btn-lg"
+                   asp-page="./Delete" asp-route-restaurantId="@restaruant.Id">
+                    <i class="glyphicon glyphicon-trash"></i>
+                </a>
+            </td>
         </tr>
     }
-</table>
-<div> @Model.Message</div>
+</table>*@
+
+<a asp-page=".\Edit" class="btn btn-primary">Add New</a>
+@section footer
+{
+    <div> @Model.Message</div>
+}
