@@ -24,10 +24,13 @@ namespace BethanysPieShop
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-          
+
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<IPieRepository, PieRepository>();
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();            
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp)); //przekuzje service do metody GetCart ¿eby na starcie by³a informacja na temat sesji
+            services.AddHttpContextAccessor(); // Wymagane do sesji
+            services.AddSession();            //
             services.AddControllersWithViews();
         }
 
@@ -47,7 +50,7 @@ namespace BethanysPieShop
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();
-
+            app.UseSession();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
