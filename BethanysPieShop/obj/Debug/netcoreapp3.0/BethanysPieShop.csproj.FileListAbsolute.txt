@@ -96,7 +96,6 @@ C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.Razor
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.TagHelpers.input.cache
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.TagHelpers.output.cache
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorCoreGenerate.cache
-C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Pie\List.cshtml.g.cs
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.RazorTargetAssemblyInfo.cs
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.Views.pdb
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -128,3 +127,7 @@ C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_P
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Carousel.cshtml.g.cs
 C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Pie\List.cshtml.g.cs
+C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\GitHub\Training\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\Contact\Index.cshtml.g.cs
